@@ -1,0 +1,19 @@
+{
+  "name": "rollup-issue-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "Ben Clinkinbeard <ben.clinkinbeard@gmail.com> (http://benclinkinbeard.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "d3-array": "1.0.1"
+  },
+  "devDependencies": {
+    "rollup": "0.36.0",
+    "rollup-plugin-node-resolve": "2.0.0"
+  }
+}
